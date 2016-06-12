@@ -1,0 +1,6 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/aditya.sirna/Downloads/Coursera-Front-End-Javascript-Frameworks-AngularJS-Overview-Assignment-4-master/bower_components/angular-route/index.js",
+        "/Users/aditya.sirna/Downloads/Coursera-Front-End-Javascript-Frameworks-AngularJS-Overview-Assignment-4-master/test/protractor.conf.js"
+    ]
+}
